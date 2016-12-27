@@ -1,0 +1,6 @@
+#ignore
+
+*.wav
+chmod_setup.txt
+config.json
+vendor
